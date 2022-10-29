@@ -13,7 +13,8 @@
   },
   "action": {
     "default_title": "Drowsiness Detection",
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": "Drowsiness.png"
   },
   "icons": {
     #"16": "drink_water16.png",
