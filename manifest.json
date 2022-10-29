@@ -15,11 +15,5 @@
     "default_title": "Drowsiness Detection",
     "default_popup": "popup.html",
     "default_icon": "drowsniess.jpeg"
-  },
-  "icons": {
-    #"16": "drink_water16.png",
-    #"32": "drink_water32.png",
-    #"48": "drink_water48.png",
-    #"128": "drink_water128.png"
   }
 }
